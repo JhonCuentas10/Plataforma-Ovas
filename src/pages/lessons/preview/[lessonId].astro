@@ -1,0 +1,33 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro'
+import styles from '@/styles/markdown.css?raw'
+import { actions } from 'astro:actions'
+import { marked } from 'marked'
+
+if (!Astro.locals.user || !Astro.params.lessonId) {
+	return Astro.redirect('/login')
+}
+
+const result = await Astro.callAction(actions.lesson.find, {
+	id: Astro.params.lessonId,
+})
+
+if (!result || result.error || !result.data) {
+	return Astro.redirect('/login')
+}
+
+const lesson = result.data
+
+const content = marked.parse(lesson.content || '')
+---
+
+<BaseLayout title={lesson.title}>
+	<main>
+		<style is:inline set:html={styles}></style>
+		<article
+			class='markdown-body'
+			style='padding: 24px; max-width: 900px; margin: 0 auto;'
+			set:html={content}
+		/>
+	</main>
+</BaseLayout>

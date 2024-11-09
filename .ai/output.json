@@ -1,0 +1,110 @@
+[
+	{
+		"title": "Introducción a Astro",
+		"caption": "Comprender los conceptos fundamentales de Astro y su arquitectura. Exploración de las ventajas de Astro para el desarrollo web moderno.",
+		"start": "2024-09-01",
+		"end": "2024-09-01"
+	},
+	{
+		"title": "Instalación y configuración de Astro",
+		"caption": "Instalación de Astro en el entorno de desarrollo. Configuración inicial del proyecto Astro y exploración de la estructura de archivos.",
+		"start": "2024-09-08",
+		"end": "2024-09-08"
+	},
+	{
+		"title": "Componentes Web con Astro",
+		"caption": "Introducción a los componentes web en Astro. Creación de componentes reutilizables y su uso en diferentes páginas.",
+		"start": "2024-09-15",
+		"end": "2024-09-15"
+	},
+	{
+		"title": "Enrutamiento en Astro",
+		"caption": "Manejo de rutas en Astro para la creación de páginas y componentes dinámicos. Utilización de la configuración de enrutamiento y la creación de rutas anidadas.",
+		"start": "2024-09-22",
+		"end": "2024-09-22"
+	},
+	{
+		"title": "End-Points y Actions en Astro",
+		"caption": "Introducción a End-Points y Actions en Astro. Creación de funciones que manejan datos del servidor y la interacción con API externas.",
+		"start": "2024-09-29",
+		"end": "2024-09-29"
+	},
+	{
+		"title": "AstroDB: Gestión de datos en Astro",
+		"caption": "Introducción a AstroDB para la gestión de datos en aplicaciones Astro. Manejo de bases de datos, almacenamiento de datos y recuperación de información.",
+		"start": "2024-10-06",
+		"end": "2024-10-06"
+	},
+	{
+		"title": "Integración de Astro con otras tecnologías",
+		"caption": "Exploración de la integración de Astro con otras tecnologías como React, Vue.js y otras bibliotecas populares.",
+		"start": "2024-10-13",
+		"end": "2024-10-13"
+	},
+	{
+		"title": "Optimización de rendimiento en Astro",
+		"caption": "Introducción a las técnicas de optimización del rendimiento de las aplicaciones Astro. Optimización de código, imágenes y recursos.",
+		"start": "2024-10-20",
+		"end": "2024-10-20"
+	},
+	{
+		"title": "Pruebas unitarias en Astro",
+		"caption": "Introducción a las pruebas unitarias en Astro. Creación de pruebas para componentes y funciones.",
+		"start": "2024-10-27",
+		"end": "2024-10-27"
+	},
+	{
+		"title": "Implementación de aplicaciones Astro",
+		"caption": "Práctica de la implementación de aplicaciones Astro en diferentes entornos de alojamiento.",
+		"start": "2024-11-03",
+		"end": "2024-11-03"
+	},
+	{
+		"title": "Casos de uso y ejemplos de proyectos con Astro",
+		"caption": "Análisis de diferentes casos de uso de Astro en proyectos reales. Estudio de ejemplos de proyectos exitosos implementados con Astro.",
+		"start": "2024-11-10",
+		"end": "2024-11-10"
+	},
+	{
+		"title": "Tendencias y futuro de Astro",
+		"caption": "Análisis de las últimas tendencias en el desarrollo web con Astro. Exploración del futuro de Astro y sus posibles aplicaciones.",
+		"start": "2024-11-17",
+		"end": "2024-11-17"
+	},
+	{
+		"title": "Proyecto final: Desarrollo de una aplicación web con Astro",
+		"caption": "Aplicación práctica de los conocimientos adquiridos en el curso. Desarrollo de una aplicación web completa utilizando Astro.",
+		"start": "2024-11-24",
+		"end": "2024-12-01"
+	},
+	{
+		"title": "Presentación de proyectos finales y cierre del curso",
+		"caption": "Presentación de los proyectos finales desarrollados por los estudiantes. Discusión de los resultados y cierre del curso.",
+		"start": "2024-12-08",
+		"end": "2024-12-08"
+	},
+	{
+		"title": "Sesión de preguntas y respuestas",
+		"caption": "Resolución de dudas finales de los estudiantes. Discusión sobre temas relacionados con el curso y el desarrollo web.",
+		"start": "2024-12-15",
+		"end": "2024-12-15"
+	},
+	{
+		"title": "Evaluación final del curso",
+		"caption": "Entrega de la evaluación final del curso. Retroalimentación y análisis de los resultados.",
+		"start": "2024-12-22",
+		"end": "2024-12-22"
+	},
+	{
+		"title": "Cierre del curso",
+		"caption": "Palabras de despedida y agradecimiento a los estudiantes por su participación en el curso.",
+		"start": "2024-12-29",
+		"end": "2024-12-29"
+	},
+	{
+		"title": "Sesión de seguimiento y apoyo",
+		"caption": "Disponible para ofrecer apoyo y orientación a los estudiantes después de finalizar el curso.",
+		"start": "2024-12-31",
+		"end": "2024-12-31"
+	}
+]
